@@ -2,9 +2,9 @@
   "$schema": "file:///E:/Launcher/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "beeserver (Minecraft 1.12.2)",
-    "description": "beeserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
-    "address": "localhost:25565",
+    "name": "skyserver (Minecraft 1.12.2)",
+    "description": "skyserver Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
+    "address": "sky1.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
