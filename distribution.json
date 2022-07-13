@@ -261,7 +261,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/koreanchat.jar",
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/required/koreanchat.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           },
           "required": {
@@ -274,7 +274,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2598821,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/required/OptiFine.jar",
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/required/OptiFine.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
           },
           "required": {
@@ -287,7 +287,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 228660,
-            "url": "https://raw.githubusercontent.com/7days162/BeeServer-distributions/main/forgemods/optionalon/SmoothFont-1.12.2-1.16-b3.jar",
+            "url": "https://raw.githubusercontent.com/eeddddyy/SkySV/main/forgemods/optionalon/SmoothFont-1.12.2-1.16-b3.jar",
             "MD5": "ce7261ddabc51be714df732365ca3760"
           },
           "required": {
